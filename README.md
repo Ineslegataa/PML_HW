@@ -1,6 +1,3 @@
-Certo! Ecco solo il testo:
-
----
 
 # Homework - Probabilistic Machine Learning (PML 2025)
 
@@ -38,5 +35,5 @@ Questa repository è a scopo educativo e personale.
 
 ---
 
-📘 *Corso di Probabilistic Machine Learning @ [Nome Università]*  
-👤 *Autore: Ines*
+📘 Corso di Probabilistic Machine Learning 
+👤 Autore: Ines
